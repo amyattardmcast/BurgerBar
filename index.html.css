@@ -1,0 +1,40 @@
+h1 {
+    font-family: Arial;
+    font-size: 40px;
+    color: Indigo;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Calibri;
+    font-size: 12pt;
+    line-height: 1.125em;
+    table-layout: fixed;
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid grey;
+    text-align: center;
+}
+
+th {
+    background-color:indigo;
+    color: white;
+}
+tr:hover {
+    background-color: lightgrey;
+}
+
+
+   
